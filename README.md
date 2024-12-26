@@ -37,8 +37,8 @@ This script automates network or node operations for Blockless Bless Network Bot
 ## Usage
 
 1. Register to blockless bless network account first, if you dont have you can register [here](https://bless.network/dashboard?ref=C6OXCZ).
-2. Set and Modify `config.js`. Below how to setup this file. Put your `B7S_AUTH_TOKEN (usertoken)`, `nodeid` and `hardwareid` in the file. Below how to get it:
-2. Set and Modify `user.txt`. Below how to setup this file, put your B7S_AUTH_TOKEN in the text file, example below:
+2. Below how to setup this file. Put your `B7S_AUTH_TOKEN (usertoken)`, `nodeid` and `hardwareid` in the file. Below how to get it:
+2. Set and Modify `tokens.txt`. Below how to setup this file, put your B7S_AUTH_TOKEN in the text file, example below:
  ```
  eyJhbGcixxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
  ```
