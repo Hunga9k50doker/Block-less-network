@@ -1,9 +1,21 @@
 {
+  "name": "blockless-bot",
+  "version": "1.0.1",
+  "description": "This script automates network or node operations for Blockless Bless Network Bot.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "blockless",
+    "bless",
+    "bot"
+  ],
   "dependencies": {
     "chalk": "^5.3.0",
     "colors": "^1.4.0",
     "https-proxy-agent": "^7.0.5",
-    "node-fetch": "^3.3.2",
-    "socks-proxy-agent": "^8.0.4"
-  }
+    "node-fetch": "^3.3.2"
+  },
+  "license": "ISC"
 }

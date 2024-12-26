@@ -1,0 +1,5 @@
+nodeid(pubkey)_01|hardwareid_01
+nodeid(pubkey)_02|hardwareid_02
+nodeid(pubkey)_03|hardwareid_03
+
+
